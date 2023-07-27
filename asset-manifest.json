@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/akhilProject/static/css/main.a2602d8e.css",
+    "main.js": "/akhilProject/static/js/main.a13b387d.js",
+    "static/js/787.9c0e85ff.chunk.js": "/akhilProject/static/js/787.9c0e85ff.chunk.js",
+    "index.html": "/akhilProject/index.html",
+    "main.a2602d8e.css.map": "/akhilProject/static/css/main.a2602d8e.css.map",
+    "main.a13b387d.js.map": "/akhilProject/static/js/main.a13b387d.js.map",
+    "787.9c0e85ff.chunk.js.map": "/akhilProject/static/js/787.9c0e85ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2602d8e.css",
+    "static/js/main.a13b387d.js"
+  ]
+}
